@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "PetteeMFG",
+      "name": "Pettee UWB (STM32F401RBT6) Board",
       "websiteURL": "https://github.com/PetteeMFG",
       "maintainer": "PetteeMFG",
       "email": "admin@petteemfg.com",
@@ -14,10 +14,10 @@
           "architecture": "pettee",
           "version": "0.9.9",
           "category": "Contributed",
-          "url": "https://github.com/PetteeMFG/Arduino_Core_Pettee_UWB/archive/refs/tags/v0.9.9.tar.gz",
+          "url": "https://github.com/PetteeMFG/Arduino_Core_Pettee_UWB/releases/download/v0.9.9/Arduino_Core_Pettee_UWB-0.9.9.tar.bz2",
           "archiveFileName": "Arduino_Core_Pettee_UWB-0.9.9.tar.bz2",
-          "checksum": "SHA-256:be670fcf37130f3210f3545b290e21d4ff3ae8e9b51f473c1ca9e532b24350e9",
-          "size": "38035430",
+          "checksum": "SHA-256:2fb7580795681ed6412f980607df92eeb8da5ebd1506a13ec2d8d4e16f85b4b8",
+          "size": "26805806",
           "boards": [
             {"name": "Pettee UWB (STM32F401RBT6)"}
           ],
