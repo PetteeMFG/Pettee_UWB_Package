@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "Pettee UWB (STM32F401RBT6) Board",
+      "name": "PetteeMFG",
       "websiteURL": "https://github.com/PetteeMFG",
       "maintainer": "PetteeMFG",
       "email": "admin@petteemfg.com",
@@ -10,7 +10,7 @@
       },
       "platforms": [
         {
-          "name": "PetteeMFG",
+          "name": "ettee UWB (STM32F401RBT6) Board",
           "architecture": "pettee",
           "version": "0.9.9",
           "category": "Contributed",
