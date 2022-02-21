@@ -15,9 +15,9 @@
           "version": "1.0.0",
           "category": "Contributed",
           "url": "https://github.com/PetteeMFG/Arduino_Core_Pettee_UWB/releases/download/V1.0.0/Arduino_Core_Pettee_UWB_V1.0.0.tar.bz2",
-          "archiveFileName": "Arduino_Core_Pettee_UWB.tar.bz2",
-          "checksum": "SHA-256:bb9a71fc52df1ee5966618931b3e00ba382cebf52037c42983a23e4200c93d3e",
-          "size": "4261690",
+          "archiveFileName": "Arduino_Core_Pettee_UWB_V1.0.0.tar.bz2",
+          "checksum": "SHA-256:11506b98237bd05e46a8ec54451a02fbec4790148c618bc904ef2382c54727a7",
+          "size": "41610459",
           "boards": [
             {"name": "Pettee UWB STM32 Board"}
           ],
